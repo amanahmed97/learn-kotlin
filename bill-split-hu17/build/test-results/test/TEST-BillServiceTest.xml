@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BillServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-02-27T12:44:45" hostname="LAP-LIN-1171" time="2.082">
+  <properties/>
+  <testcase name="get bill test()" classname="BillServiceTest" time="2.003"/>
+  <testcase name="add bill test()" classname="BillServiceTest" time="0.071"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

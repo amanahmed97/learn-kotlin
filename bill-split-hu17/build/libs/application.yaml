@@ -1,0 +1,21 @@
+#ebean:
+#  dbSchema: splitbill  # use this schema rather than public
+#  migration:
+#
+#    run: true       # run database migrations on startup
+#
+ebean:
+  ddl:
+    generate: true
+#    migration: true
+    run: false
+  search:
+    packages: models		
+
+
+datasource:
+  db:
+    username: postgres
+    password: password
+    url: jdbc:postgresql://172.17.0.1:5432/splitbill
+    driver: org.postgresql.Driver
